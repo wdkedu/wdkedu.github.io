@@ -1,12 +1,11 @@
 ---
 layout: post
 toc: true
-title: "This post demonstrates post content styles"
+title: "公司治理培训概览"
 categories: junk
-tags: [markdown, css, html]
+tags: [培训, 概述]
 author:
-  - Bart Simpson
-  - Nelson Mandela Muntz
+  - 刘国强
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
