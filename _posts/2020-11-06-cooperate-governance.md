@@ -2,7 +2,7 @@
 layout: post
 toc: true
 title: "公司治理培训概览"
-categories: junk
+categories: 公司治理
 tags: [培训, 概览]
 author:
   - 刘国强
@@ -21,10 +21,12 @@ author:
 
 
 
-![internal](\images\internal.png)
+![internal](images/internal.png)
 
 图片出处是2006年的一篇文献综述Recent Developments in Corporate Governance:
-An Overview（ [文件下载](files\gillan2006.pdf) ）
+An Overview（ [文件下载](files/gillan2006.pdf) ）
+
+[关于发布《上市公司高级管理人员培训工作指引》及相关实施细则的通知](http://www.csrc.gov.cn/pub/newsite/flb/flfg/bmgf/ssgs/gszl/201012/t20101231_189742.html)
 
 ### 内训课程
 
@@ -38,11 +40,13 @@ An Overview（ [文件下载](files\gillan2006.pdf) ）
 
 沈春晖，红塔证券副总裁兼投资银行事业总部总经理。个人网站[春晖投行在线](http://www.shenchunhui.com/)著名投行网站。
 
-[陈盛东金融工作室](http://chenshengdong.net/)
+
 
 [知室 (g2s.cn)](https://www.g2s.cn/)
 
-许浩明老师的[智谋帮](http://www.zmbthink.com/gywm)。
+之前找的讲华为狼性营销的许浩明老师的[智谋帮](http://www.zmbthink.com/gywm)、之前公司银行业务经纪推荐的[陈盛东金融工作室](http://chenshengdong.net/)
 
 高维学堂
+
+
 
