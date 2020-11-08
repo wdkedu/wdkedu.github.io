@@ -21,10 +21,10 @@ author:
 
 
 
-![internal](images/internal.png)
+![internal](/images/internal.png)
 
 图片出处是2006年的一篇文献综述Recent Developments in Corporate Governance:
-An Overview（ [文件下载](files/gillan2006.pdf) ）
+An Overview（ [文件下载](/files/gillan2006.pdf) ）
 
 [关于发布《上市公司高级管理人员培训工作指引》及相关实施细则的通知](http://www.csrc.gov.cn/pub/newsite/flb/flfg/bmgf/ssgs/gszl/201012/t20101231_189742.html)
 
