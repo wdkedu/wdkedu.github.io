@@ -15,18 +15,11 @@ author:
 
 郎咸平[《公司治理：郎咸平学术文集》](https://item.jd.com/11467750.html?cu=true)的主要内容为股利政策、公司长期债政策、破产与重组、兼并与收购、公司的多元化经营与投资策略的分析、股权结构的分析、金融市场的定价和特性。
 
-市面上公司治理的培训课程华师经纪基本都有。包括：
-
-温茗老师的[《企业治理和内控管理》](http://www.huashijingji.com/course_details?courseid=25707)、吴梓境老师的[《股权结构设计与股权激励》](http://www.huashijingji.com/course_details?courseid=5675#anchor_2)、张小明老师的[《公司治理中股东董事监事运行规范》](http://www.huashijingji.com/course_details?courseid=13528)、
-
-
+市面上公司治理的培训课程最多的是**股权结构设计**和**股权激励**两个主题。以华师经纪为例，公司治理的课程包括：温茗老师的[《企业治理和内控管理》](http://www.huashijingji.com/course_details?courseid=25707)、吴梓境老师的[《股权结构设计与股权激励》](http://www.huashijingji.com/course_details?courseid=5675#anchor_2)、张小明老师的[《公司治理中股东董事监事运行规范》](http://www.huashijingji.com/course_details?courseid=13528)等。李维安的[《公司治理手册》中引用了2006年的一篇文献综述Recent Developments in Corporate Governance:An Overview（ [文件下载](/files/gillan2006.pdf) ），其中内部治理的部分基本可以概括现有培训课程的内容。
 
 ![internal](/images/internal.png)
 
-图片出处是2006年的一篇文献综述Recent Developments in Corporate Governance:
-An Overview（ [文件下载](/files/gillan2006.pdf) ）
-
-[关于发布《上市公司高级管理人员培训工作指引》及相关实施细则的通知](http://www.csrc.gov.cn/pub/newsite/flb/flfg/bmgf/ssgs/gszl/201012/t20101231_189742.html)
+[关于发布《上市公司高级管理人员培训工作指引》及相关实施细则的通知](http://www.csrc.gov.cn/pub/newsite/flb/flfg/bmgf/ssgs/gszl/201012/t20101231_189742.html)对培训内容的设置，大致可以分为三个方面：规范运作、财务管理和资本运作。
 
 ### 内训课程
 
