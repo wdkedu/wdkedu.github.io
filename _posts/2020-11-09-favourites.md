@@ -3,7 +3,7 @@ layout: post
 toc: false
 title: "培训资源导航"
 categories: 培训
-tags: [导航，资源]
+tags: [导航,资源]
 author:
   - 刘国强
 
