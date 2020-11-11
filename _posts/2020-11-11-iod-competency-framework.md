@@ -1,6 +1,6 @@
 ---
 layout: post
-toc: false
+toc: true
 title: "董事协会能力框架"
 categories: 公司治理
 tags: [董事, 知识体系]
