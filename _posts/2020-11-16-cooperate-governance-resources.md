@@ -35,7 +35,7 @@ author:
 
 ## 董事学会（Institute of Directors）
 
-世界各地有各种董事学会/协会，提供董事培训服务。知识体系各不相同。
+世界各地有各种董事学会/协会，提供董事培训服务。各董事学会都有成体系的董事培训，但又各不相同。
 
 [美国全国董事协会NACD](https://www.nacdonline.org/)的 [NACD Directorship Certification Study Guide Executive Summary(下载)](/files/NACD Directorship Certification Study Guide Executive Summary.pdf) 的课程内容分为五个部分：
 
@@ -87,6 +87,12 @@ author:
 - 级别上分为三个层次：starting level、strengthing level、mastering level
 
 ![董事专业发展矩阵](/images/matrix.png)
+
+## 部分培训课程
+
+周凌峰老师的[《打造卓越董事会》](http://www.jiangshi.org/517903/course_742248.html)和[《公司治理与董事会运作》](http://www.jiangshi.org/517903/course_742249.html)
+
+香港董事学院公司治理及董事学教授朱长春[《公司治理及董事学》（下载）](/files/zhuchangchun.pdf)系列课程。
 
 ## 交易所规则
 
