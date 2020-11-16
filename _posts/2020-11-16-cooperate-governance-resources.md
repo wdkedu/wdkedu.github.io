@@ -33,9 +33,17 @@ author:
 * 利益相关者
 * 金融与法
 
+
+
+最常见的课程是**股权结构设计**和**股权激励**两个主题。关于董事会运作的课程有
+
+张小明老师的[《公司治理中股东董事监事运行规范》](http://www.huashijingji.com/course_details?courseid=13528)、周凌峰老师的[《打造卓越董事会》](http://www.jiangshi.org/517903/course_742248.html)和[《公司治理与董事会运作》](http://www.jiangshi.org/517903/course_742249.html)、崔丽老师的[《公司治理》](http://www.cnboke.com/show_course.asp?id=38844)等。
+
 ## 董事学会（Institute of Directors）
 
 世界各地有各种董事学会/协会，提供董事培训服务。各董事学会都有成体系的董事培训，但又各不相同。
+
+[香港董事学院](http://www.ehkcd.com.hk/)公司治理及董事学教授朱长春[《公司治理及董事学》（下载）](/files/zhuchangchun.pdf)系列课程。
 
 [美国全国董事协会NACD](https://www.nacdonline.org/)的 [NACD Directorship Certification Study Guide Executive Summary(下载)](/files/NACD Directorship Certification Study Guide Executive Summary.pdf) 的课程内容分为五个部分：
 
@@ -82,7 +90,8 @@ author:
 
 [澳大利亚公司董事协会](http://www.companydirectors.com.au/director-resource-centre/corporate-governance-framework/framework)的培训比较细致形成董事专业发展矩阵。
 
-- 内容上分为五个方面：董事个人、董事会、机构、利益相关者，以及“核心课程”。
+- 对象上分为五个方面：董事个人、董事会、机构、利益相关者，以及“核心课程”。
+- 内容上分为八个大类：领导力、董事角色及职责、董事会表现、治理、风险与战略、财务、管理层关系、利益相关者互动。
 - 形式上分为五种形式：face to face、online learning（好像是培训现场直播）、e-learning、in-house（应该是内训的意思）、webinars（应该是直播的意思）、publication。
 - 级别上分为三个层次：starting level、strengthing level、mastering level
 
@@ -90,9 +99,7 @@ author:
 
 ## 部分培训课程
 
-周凌峰老师的[《打造卓越董事会》](http://www.jiangshi.org/517903/course_742248.html)和[《公司治理与董事会运作》](http://www.jiangshi.org/517903/course_742249.html)
 
-香港董事学院公司治理及董事学教授朱长春[《公司治理及董事学》（下载）](/files/zhuchangchun.pdf)系列课程。
 
 ## 交易所规则
 
@@ -105,31 +112,33 @@ author:
 
 ## 其他参考资源
 
+- [公司治理风险管理指南（GB/T 26317-2010）](/files/GBT 26317-2010.pdf)
 - 国际金融公司的[Corporate Governance专题](https://www.ifc.org/wps/wcm/connect/Topics_Ext_Content/IFC_External_Corporate_Site/IFC+CG/)
 - 国际开放与道德遵循小组[OCEG](https://www.oceg.org/)
-
 - [International Corporate Governance Network](https://www.icgn.org/)
 - [香港董事学会](http://www.hkiod.com/sc/)
-
 - [香港董事学院](http://www.ehkcd.com.hk/ContentTop.aspx?pid=1)
 - [董事互联网](http://www.ciod.org.cn/)
 - [亚洲公司治理协会](https://www.acga-asia.org/)
 - [欧洲公司治理协会](https://ecgi.global/)
 - OECD[公司治理专题](https://www.oecd.org/corporate/)
-
 - [台湾证券交易所公司治理中心](https://cgc.twse.com.tw/)
 
-# 培训模式与运营
+# 培训运营参考
 
-## 培训模式
+基本的运营主体可通过“五道口讲堂”进行，
 
-根据培训双方性质，可将培训分为以下模式：
+- 视频课程可加入小鹅通功能。小鹅通的[服务价格](https://www.xiaoe-tech.com/server_price)分三个版本，如果只是发布音视频课程，4800元的标准版应该够用。如果需要微信小程序，价格要加是1888元/年。
+- 可以考虑开通文章付费功能。
 
-- B2B：对公业务，内训。
-- B2C：零售业务，公开课、PGC模式
-- C2C：课程市场，包括小鹅通、得到等各类“course marketplace”，UGC模式。
-- C2B：课程众筹。
+课程宣传
 
-喜马拉雅
+- 可以通过“五道口讲堂”微信公众号进行
+- 五道口讲堂是服务号，消息发布是每周一次。
+- 可以考虑申请微博，微博企业认证600元/年。
+- 可以考虑其他平台，头条号、百家号、搜狐号、网易号、企鹅号、大鱼号、小红书、知乎、简书等。
 
-小鹅通价格
+企业内训
+
+- 公开课众筹需要开通商户支付功能，杨姐是超级管理员，正在处理。
+- 陈春花的知室主要是企业内训。高层管理人员主要是面授，基层管理人员在线下学习的基础上有半年的视频学习。比如，[组织学习A方案 ](https://www.g2s.cn/aries_zhishish/zhishish.html#/cp/course1-A)。
