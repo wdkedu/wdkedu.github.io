@@ -5,7 +5,7 @@ title: "公司治理资源概览"
 categories: 公司治理
 tags: [公司治理, 导航]
 author:
-  - 刘国强知识
+  - 刘国强
 ---
 
 # 公司治理的基本框架
@@ -33,7 +33,7 @@ author:
 
 
 
-最常见的课程是**股权结构设计**和**股权激励**两个主题。关于董事会运作的课程有张小明老师的[《公司治理中股东董事监事运行规范》](http://www.huashijingji.com/course_details?courseid=13528)、周凌峰老师的[《打造卓越董事会》](http://www.jiangshi.org/517903/course_742248.html)和[《公司治理与董事会运作》](http://www.jiangshi.org/517903/course_742249.html)、崔丽老师的[《公司治理》](http://www.cnboke.com/show_course.asp?id=38844)等。
+最常见的课程是**股权结构设计**和**股权激励**两个主题。关于董事会运作的课程有张小明老师的[《公司治理中股东董事监事运行规范》](http://www.huashijingji.com/course_details?courseid=13528)、周凌峰老师的[《打造卓越董事会》](http://www.jiangshi.org/517903/course_742248.html)和[《公司治理与董事会运作》](http://www.jiangshi.org/517903/course_742249.html)、崔丽老师的[《公司治理》](http://www.cnboke.com/show_course.asp?id=38844)等。交易所培训主要针对的是资本运作与信息披露。
 
 世界各地有各种董事学会/协会，提供董事培训服务。各董事学会都有成体系的董事培训，但又各不相同。
 
@@ -109,6 +109,7 @@ author:
 面授课程
 
 - 公开课众筹需要开通商户支付功能，还需要3-7个工作日审核。
+- 小鹅通有面授课程报名功能，需要开通专业版。
 - 陈春花的知室类似于五道口在线学习平台，主要是企业内训。知室提供多种学习方案，高层管理人员主要是面授，基层管理人员在线下学习的基础上加半年的视频学习。比如，[组织学习A方案 ](https://www.g2s.cn/aries_zhishish/zhishish.html#/cp/course1-A)。
 
 # 其他
@@ -128,9 +129,6 @@ author:
 - 国际金融公司的[Corporate Governance专题](https://www.ifc.org/wps/wcm/connect/Topics_Ext_Content/IFC_External_Corporate_Site/IFC+CG/)
 - 国际开放与道德遵循小组[OCEG](https://www.oceg.org/)
 - [International Corporate Governance Network](https://www.icgn.org/)
-- [香港董事学会](http://www.hkiod.com/sc/)
-- [香港董事学院](http://www.ehkcd.com.hk/ContentTop.aspx?pid=1)
-- [董事互联网](http://www.ciod.org.cn/)
 - [亚洲公司治理协会](https://www.acga-asia.org/)
 - [欧洲公司治理协会](https://ecgi.global/)
 - OECD[公司治理专题](https://www.oecd.org/corporate/)
