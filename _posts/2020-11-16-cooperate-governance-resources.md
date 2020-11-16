@@ -93,8 +93,6 @@ author:
 
 ![董事专业发展矩阵](/images/matrix.png)
 
-- https://cgc.twse.com.tw/)
-
 # 培训运营参考
 
 基本的运营主体可通过“五道口讲堂”进行，
@@ -137,4 +135,4 @@ author:
 - [亚洲公司治理协会](https://www.acga-asia.org/)
 - [欧洲公司治理协会](https://ecgi.global/)
 - OECD[公司治理专题](https://www.oecd.org/corporate/)
-- [台湾证券交易所公司治理中心](
+- [台湾证券交易所公司治理中心](https://cgc.twse.com.tw/)
